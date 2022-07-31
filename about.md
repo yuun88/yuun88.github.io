@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Hi, I'm Yoan Bassinet.
 
-### More Information
+I’m a software developer working on ecommerce and SaaS projects, CRM Automation and recommendation systems.
 
-A place to include any other types of information that you'd like to include about yourself.
+I love to learn, improve, and build stuff. On this website, I share thoughts and experiments, mostly related to ecommerce, CRM and optimization.
 
-### Contact me
+I'm currently based in Paris, France.
 
-[email@domain.com](mailto:email@domain.com)
+You can contact by email at yoan@yoan.io.
+
