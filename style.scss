@@ -30,9 +30,15 @@ body {
   width: 100%;
 }
 
+@media screen and (max-width: 640px){
+  .site-avatar {
+    visibility: hidden;
+  }
+}
+
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -49,19 +55,22 @@ h1 {
   a {
     color: inherit;
   }
+  color: #0a3d62;
 }
 
 h2 {
   font-size: 24px;
+  color: #3c6382;
 }
 
 h3 {
   font-size: 20px;
+  color: #3c6382;
 }
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #3c6382;
 }
 
 p {
@@ -69,11 +78,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #60a3bc;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #82ccdd;
   }
 }
 
