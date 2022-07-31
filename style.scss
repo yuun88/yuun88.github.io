@@ -32,7 +32,7 @@ body {
 
 @media screen and (max-width: 640px){
   .site-avatar {
-    display: none;
+    display: none!important;
   }
 }
 

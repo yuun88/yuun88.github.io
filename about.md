@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### Hi, I'm Yoan Bassinet.
+## Hi, I'm Yoan Bassinet.
 
 I’m a software developer working on ecommerce and SaaS projects, CRM Automation and recommendation systems.
 
