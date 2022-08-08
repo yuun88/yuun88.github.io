@@ -86,3 +86,5 @@ exclude:
   - CNAME
 
 mathjax: true
+
+excerpt_separator: <!--more-->
