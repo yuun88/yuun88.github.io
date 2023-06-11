@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Yoan Bassinet
+name: Yoan
 
 # Short bio or description (displayed in the header)
-description: Growth Engineer
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/yoanbst/yoanbst.github.io/main/images/yoan-bassinet.jpg
+avatar: https://raw.githubusercontent.com/yoanbst/yoanbst.github.io/main/images/stoic.jpg
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: yoanbst
+  github: 
   instagram:
-  linkedin: yoan-bassinet
+  linkedin: 
   pinterest:
   rss: rss
   twitter:
