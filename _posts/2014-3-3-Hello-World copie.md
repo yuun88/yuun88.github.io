@@ -1,7 +1,8 @@
 ---
-title:  "Markdown examples"
+title: Markdown examples
 layout: post
 categories: media
+published: false
 ---
 
 
