@@ -2,7 +2,7 @@
 layout: post
 title: Principes de vie
 categories: Stoicisme
-published: false
+published: true
 ---
 
 Certainement ! Voici une liste d'objectifs qui sont en accord avec les principes stoïques :
